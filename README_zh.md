@@ -33,7 +33,7 @@
 ### 步骤
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/foil-strain-gauge-calculation-toolkit.git
+   git clone https://github.com/nyaun/foil-strain-gauge-calculation-toolkit.git
    cd foil-strain-gauge-calculation-toolkit
    ```
 
