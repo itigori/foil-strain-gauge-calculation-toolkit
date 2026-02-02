@@ -33,7 +33,7 @@ This toolkit provides functionality to compute key parameters for foil strain ga
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nyaun/foil-strain-gauge-calculation-toolkit.git
+   git clone https://github.com/itigori/foil-strain-gauge-calculation-toolkit.git
    cd foil-strain-gauge-calculation-toolkit
    ```
 
